@@ -1,4 +1,4 @@
-# Rahul-Hingmire
+# Rahul hingmire
 ### Hi there, I'm Rahul Hingmire 👋
 
 ## I'm a Student,Coder,Developer!!
