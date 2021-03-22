@@ -24,4 +24,4 @@
 ---
 
 [instagram]: https://www.instagram.com/hingmire_rahul/
-[linkedin]: https://www.linkedin.com/in/rahul-hingmire-1182521bb/
+[linkedin]: https:https://www.linkedin.com/in/rahul-hingmire/
